@@ -34,14 +34,9 @@ Flow normal Git
 
 
 
-	* Git clone ==> Ambil dari git clone baru seperti gitlab atau github
-	
 
-
-=======
  
 	* Git clone ==> Ambil dari git clone baru seperti gitlab atau github
->>>>>>> c7afbf04b0012d4976aeab9cdf508710aa9fa1c4
 	```bash
 		git clone https://github.com/fidesetratio/knowledge.git
 		cd knowledge // cd knowledge
