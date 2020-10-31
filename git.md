@@ -80,5 +80,19 @@ Flow normal Git
 	
 	Day to day menggunakan branch
 	1. Lihat 1-2 dari yang diatas
-	2. git branch //lihat branch 
+	2. git branch //lihat branch
+	3. git branch tambahkandelete // buat branch tambahkan delete
+	4. git checkout tambahkandelete // checkout branch tambahkan delete
+	5. modify data dan tambahkan data tersebut 
+	6. git add -A
+	7. git commit -m "Tambahkan delete"
+	8. git push -u origin tambahkandelete  
+	9. Biasanya kompany ada test control
+	10. setelah benar
+	11. git checkout master
+	12. git merge tambahkandelete
+	13. Setelah selesai mohon delete branch nya
+	14. git branch -d tambahkandelete // ini di local
+	15. git branch -a // di remote masih ada
+	16. git push origin --delete tambahkandelete // remote harus delete juga	
 	
