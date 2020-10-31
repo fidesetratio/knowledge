@@ -16,15 +16,27 @@ Flow normal Git
 * Starting
 	
 	* Git init ==> Membuat folder baru
-
+	
 	 ```bash
  	 	mkdir source  // buat folder baru
 		cd source // cd source
 		git init // buat folder ini ini jadi git internal repository
          ```
- 
+ 	
+	 Jangan lupa buat repository di gitlab atau github 
+	
+	```bash
+		git remote add origin https://github.com/fidesetratio/multigit.git
+		git push -u origin master
+	
+	```
+
+
+
 	* Git clone ==> Ambil dari git clone baru seperti gitlab atau github
 	
+
+
 	```bash
 		git clone https://github.com/fidesetratio/knowledge.git
 		cd knowledge // cd knowledge
