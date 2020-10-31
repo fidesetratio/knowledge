@@ -1,11 +1,5 @@
 # knowledge
 
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
-```java
-public static void main(String args[]){
-  System.out.println("hello world");
-}
-```
+
+Berikut adalah tips & trick untuk pengerjaan di linux dan juga mastering programming languange
+
