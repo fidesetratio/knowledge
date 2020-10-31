@@ -42,3 +42,15 @@ Flow normal Git
 		cd knowledge // cd knowledge
 		git status // cek statusnya
 	```
+
+
+* Flow day to day
+
+	Ini merupakan flow day to daily
+
+	```bash
+		git add -A // menambahkan folder/ file to stage
+		git log // cek log dengan 
+		git status // bisa lihat hash commit dan juga history log
+		git reflog // bisa checkout seperti log juga
+	```
