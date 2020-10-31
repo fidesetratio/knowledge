@@ -1,2 +1,9 @@
 # knowledge
-all knowledge
+
+~~~
+ java
+ 
+ public void  main(String args[]){
+ };
+
+~~~
