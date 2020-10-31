@@ -62,3 +62,23 @@ Flow normal Git
 		git remote -v  // lihat remote url
 	
 	```
+	
+	Contoh day to day:
+	
+	1. git clone https://github.com/fidesetratio/multigit.git
+	2. git status // pastikan berada di master
+	3. buat source code seperti yang diinginkan
+	    contoh : touch helloworld.sh
+		     vim helloworld.sh
+		     echo "helloworld
+	4. git add -A // jangan lupa untuk kirim stage
+	5. git commit -m "Hello world dengan bash"
+	6. git pull origin master // ini pastikan pull latest source code aga
+	7. git push origin master // push ke remote
+
+	Note : diatas commit di master (ini bukan yang hal baik dalam software development)
+	
+	Day to day menggunakan branch
+	1. Lihat 1-2 dari yang diatas
+	2. git branch //lihat branch 
+	
