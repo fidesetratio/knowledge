@@ -42,3 +42,8 @@ Flow normal Git
 		cd knowledge // cd knowledge
 		git status // cek statusnya
 	```
+
+
+* Flow day to day
+
+	Ini merupakan flow day to day
