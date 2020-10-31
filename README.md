@@ -1,9 +1,6 @@
 # knowledge
 
-~~~
-  java
- 
- public void  main(String args[]){
- };
-
-~~~
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
