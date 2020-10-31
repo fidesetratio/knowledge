@@ -13,5 +13,7 @@ Flow normal Git
 	
 	```
 
-* Membuat git folder
+* Starting
+	
+	* Git init ==> Membuat folder baru
  
