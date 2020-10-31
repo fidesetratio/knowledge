@@ -54,3 +54,11 @@ Flow normal Git
 		git status // bisa lihat hash commit dan juga history log
 		git reflog // bisa checkout seperti log juga
 	```
+	Tambahan untuk melihat data repository
+
+	```bash
+		git branch // lihat branch local
+		git branch -a // lihat branch local & remote
+		git remote -v  // lihat remote url
+	
+	```
