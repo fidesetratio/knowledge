@@ -61,7 +61,19 @@ Flow normal Git
 		git branch -a // lihat branch local & remote
 		git remote -v  // lihat remote url
 	
+	
 	```
+	
+	Merge branch to master
+	ex: master,test
+	
+	```bash
+	git checkout master
+	git reset --hard test
+	git push --force origin master
+	```
+	
+	
 	
 	Contoh day to day:
 	
